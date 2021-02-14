@@ -1,0 +1,7 @@
+main: at.raphimc.viaaprilfools.BukkitPlugin
+name: ViaAprilFools
+descrption: "Allow april fools clients on your 1.8-1.16x server"
+author: RK_01
+authors: [ Lenni0451 ]
+version: 1.0.0
+depend: [ "ViaVersion", "ViaBackwards" ]
